@@ -1,0 +1,25 @@
+{
+  "name": "tumblr-mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tumblr-mailer.js",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "mandrill-api": "^1.0.45",
+    "tumblr.js": "0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDooner64/tumblr-mailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDooner64/tumblr-mailer/issues"
+  },
+  "homepage": "https://github.com/TheDooner64/tumblr-mailer#readme"
+}
